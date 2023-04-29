@@ -1,0 +1,3 @@
+kubectl apply -f my-app-deployment.yaml
+kubectl apply -f my-app-service.yaml
+kubectl apply -f mongodb-deployment.yaml
